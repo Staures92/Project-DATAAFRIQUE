@@ -1,2 +1,2 @@
 # Project-DATAAFRIQUE
-Développer un modèle d'analyse des sentiments pour les avis clients et créer une application web associée.
+Le développement d'un modèle d'analyse des sentiments pour les avis clients et la création d'une application web associée.
