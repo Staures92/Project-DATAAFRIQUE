@@ -1,0 +1,1 @@
+{"date_trained": "2024-08-17 00:31:40", "model_type": "VotingClassifier", "vectorizer": "TfidfVectorizer", "base_models": ["LogisticRegression", "RandomForestClassifier", "SVC"]}

@@ -1,0 +1,1 @@
+{"date_trained": "2024-08-16 18:34:23", "model_type": "VotingClassifier with TF-IDF", "base_models": ["LogisticRegression", "RandomForestClassifier", "SVC"], "accuracy": 0.502, "scikit_learn_version": "1.5.0"}
