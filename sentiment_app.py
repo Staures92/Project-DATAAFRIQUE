@@ -74,12 +74,6 @@ if st.button('Analyser'):
         for label, prob in zip(labels, probabilities):
             st.write(f"{label}: {prob:.2f}")
         
-        # Visualisation des probabilités
-        import plotly.graph_objects as go
-        
-        fig = go.Figure(data=[go.Bar(x=labels, y=probabilities)])
-        fig.update_layout(title='Probabilités des sentiments', xaxis_title='Sentiment', yaxis_title='Probabilité')
-        st.plotly_chart(fig)
     else:
         st.write("Veuillez entrer un avis à analyser.")
 
